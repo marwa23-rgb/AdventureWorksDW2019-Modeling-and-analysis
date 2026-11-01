@@ -76,32 +76,6 @@ An end-to-end BI project built on the **AdventureWorksDW2019** sample data wareh
 
 ---
 
-## Repository Structure
-
-```
-├── DIM_Calender.sql / .csv     # Date dimension
-├── DIM_Customer.sql / .csv     # Customer dimension
-├── InternetSales.sql / .csv    # Sales fact table
-├── Product.sql / .csv          # Product dimension
-├── SalesBudget.xlsx            # Budget data
-├── DataModel.PNG               # Data model diagram
-├── Sales1.PNG                  # Sales Overview dashboard
-├── product1.PNG                # Product Details dashboard
-└── customer1.PNG               # Customers dashboard
-```
-
----
-
-## How to Reproduce
-
-1. Restore the **AdventureWorksDW2019** database in SQL Server.
-2. Run the `.sql` scripts to extract and clean each table (or use the provided `.csv` files directly).
-3. Open Power BI and import the tables along with `SalesBudget.xlsx`.
-4. Create the relationships shown in the data model diagram.
-5. Build the visuals and KPIs as shown in the dashboard screenshots.
-
----
-
 ## Author
 
 **Marwa** – [GitHub](https://github.com/marwa23-rgb)
