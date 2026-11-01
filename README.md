@@ -66,7 +66,6 @@ An end-to-end BI project built on the **AdventureWorksDW2019** sample data wareh
 
 - Focus on **customer status**, **salary**, and **job type**
 
----
 
 ## Key Insights
 
@@ -74,7 +73,6 @@ An end-to-end BI project built on the **AdventureWorksDW2019** sample data wareh
 - Sales performance is tracked against budget through dedicated KPIs.
 - Top products, top customers, and the top-selling US city are identified in the Sales Overview dashboard.
 
----
 
 ## Author
 
