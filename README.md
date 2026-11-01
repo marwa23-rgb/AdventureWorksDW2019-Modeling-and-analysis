@@ -2,7 +2,6 @@
 
 An end-to-end BI project built on the **AdventureWorksDW2019** sample data warehouse: extracting and cleaning data with SQL, building a data model, and delivering three interactive **Power BI** dashboards covering sales, products, and customers.
 
----
 
 ## Project Workflow
 
@@ -22,7 +21,6 @@ An end-to-end BI project built on the **AdventureWorksDW2019** sample data wareh
 - **Power BI** (data modeling, DAX, dashboards)
 - **Excel** (sales budget data)
 
----
 
 ## Data Model
 
@@ -38,7 +36,6 @@ An end-to-end BI project built on the **AdventureWorksDW2019** sample data wareh
 | Product | Dimension | `Product.sql`, `Product.csv` |
 | Sales Budget | Budget | `SalesBudget.xlsx` |
 
----
 
 ## Dashboards
 
